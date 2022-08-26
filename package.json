@@ -1,0 +1,31 @@
+{
+  "name": "starternode",
+  "version": "1.0.0",
+  "description": "A lightweight framework with a folder structure to start your new Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marc4919/starterNode.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Marc G.T.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marc4919/starterNode/issues"
+  },
+  "homepage": "https://github.com/marc4919/starterNode#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "type": "module"
+}
